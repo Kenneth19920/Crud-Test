@@ -20,7 +20,7 @@
                     <a href="https://github.com/Kenneth19920/BD-Crud-Test.git" class="btn btn-outline-primary btn-md">
                         <i class="fas fa-database"></i>DB del proyecto
                     </a>
-                    <a href="https://drive.google.com/file/d/1HD_SEOosYXCN46E5cmXgccnZCRKvJWoC/view?usp=sharing" class="btn btn-outline-primary btn-md">
+                    <a href="https://drive.google.com/file/d/1LT-gzUIYSQLh0ZdpA5St2_gA9GBfyy8D/view?usp=sharing" class="btn btn-outline-primary btn-md">
                         <i class="fas fa-file-alt"></i>Documentación del proyecto
                     </a>
                 </p>
