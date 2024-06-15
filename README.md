@@ -22,7 +22,7 @@ Para ejecutar y desarrollar este proyecto, necesitarás las siguientes herramien
 1. **Clona el repositorio**
 
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/Kenneth19920/Crud-Test.git
 
 2. **Clona el Query del la BD**
      ```sh
