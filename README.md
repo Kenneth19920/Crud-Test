@@ -15,7 +15,7 @@ Para ejecutar y desarrollar este proyecto, necesitarás las siguientes herramien
 - [Visual Studio](https://visualstudio.microsoft.com/) (2019 o superior) con soporte para ASP.NET y desarrollo web.
 - [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472)
 - [SQL Server](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) (cualquier versión compatible)
-- [SQL Server Management Studio 19](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+- [SQL Server Management Studio 19](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) (2019 o superior)
 
 ## Instalación
 
